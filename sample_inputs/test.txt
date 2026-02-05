@@ -1,0 +1,33 @@
+SERVICE AGREEMENT
+
+This Service Agreement is entered into between ABC Technologies Pvt Ltd
+and XYZ Solutions on 01 January 2025.
+
+1. Scope of Services
+The Service Provider shall provide software development and maintenance
+services to the Client as per agreed timelines and deliverables.
+
+2. Payment Terms
+The Client shall pay INR 5,00,000 within 30 days of invoice.
+Any delay in payment shall attract a penalty of 2% per month.
+
+3. Term and Termination
+This Agreement shall be valid for a period of 2 years.
+The Client may terminate this Agreement at any time without cause
+by providing 15 days written notice.
+
+4. Indemnity
+The Service Provider shall indemnify and hold harmless the Client
+against all losses, damages, and liabilities arising from the services.
+
+5. Confidentiality
+Both parties shall maintain confidentiality of all business information
+during and after the term of this Agreement.
+
+6. Arbitration and Jurisdiction
+Any dispute arising out of this Agreement shall be resolved through
+arbitration in Mumbai in accordance with Indian laws.
+
+7. Governing Law
+This Agreement shall be governed by and construed in accordance with
+the laws of India.
